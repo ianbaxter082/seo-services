@@ -24,7 +24,7 @@ How We Help with Local SEO
 --------------------------
 
 We specialize in local SEO strategies like optimizing Google My Business and building local citations.
-`SEO Company <https://adfinityclarity.com/seo-search-engine-optimization>` | `SEO Agency <https://adfinityclarity.com/seo-search-engine-optimization>`
+`SEO Company <https://adfinityclarity.com/seo-search-engine-optimization>`_ | `SEO Agency <https://adfinityclarity.com/seo-search-engine-optimization>`_
 Our Proven SEO Process
 ----------------------
 
@@ -51,5 +51,5 @@ Author Bio
 
 `Ian Baxter <https://about.me/ibaxter>`_ is a seasoned `SEO services <https://adfinityclarity.com/seo-search-engine-optimization>`_ expert who delivers results-driven digital marketing.
 
-`Digital Marketing Services https://adfinityclarity.com/digital-marketing>` | `Digital Marketing Agency <https://adfinityclarity.com/digital-marketing>`
-`Digital Marketing Company <https://adfinityclarity.com/digital-marketingn>` | `Adfinity Clarity <https://adfinityclarity.com/>`
+`Digital Marketing Services https://adfinityclarity.com/digital-marketing>`_ | `Digital Marketing Agency <https://adfinityclarity.com/digital-marketing>`_
+`Digital Marketing Company <https://adfinityclarity.com/digital-marketingn>`_ | `Adfinity Clarity <https://adfinityclarity.com/>`_
