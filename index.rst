@@ -51,5 +51,5 @@ Author Bio
 
 `Ian Baxter <https://about.me/ibaxter>`_ is a seasoned `SEO services <https://adfinityclarity.com/seo-search-engine-optimization>`_ expert who delivers results-driven digital marketing.
 
-`Digital Marketing Services https://adfinityclarity.com/digital-marketing>`_ | `Digital Marketing Agency <https://adfinityclarity.com/digital-marketing>`_
-`Digital Marketing Company <https://adfinityclarity.com/digital-marketingn>`_ | `Adfinity Clarity <https://adfinityclarity.com/>`_
+`Digital Marketing Services https://adfinityclarity.com/digital-marketing>`_   | `Digital Marketing Agency <https://adfinityclarity.com/digital-marketing>`_
+`Digital Marketing Company <https://adfinityclarity.com/digital-marketingn>`_  | `Adfinity Clarity <https://adfinityclarity.com/>`_
